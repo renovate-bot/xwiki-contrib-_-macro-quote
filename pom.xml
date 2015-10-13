@@ -29,7 +29,7 @@
   </parent>
   <groupId>org.xwiki.contrib</groupId>
   <artifactId>macro-quote</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <name>Quote Macro</name>
   <description>Displays inline text with special quote formatting</description>
   <properties>
@@ -42,7 +42,7 @@
     <connection>scm:git:git://github.com/xwiki-contrib/macro-quote.git</connection>
     <developerConnection>scm:git:git@github.com:xwiki-contrib/macro-quote.git</developerConnection>
     <url>https://github.com/xwiki-contrib/macro-quote</url>
-    <tag>macro-quote-1.0</tag>
+    <tag>HEAD</tag>
   </scm>
   <developers>
     <developer>
